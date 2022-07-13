@@ -1,2 +1,2 @@
-# merge-conflict-1
+# merge-conflict-2345
 This is the sentence, added by Scott
